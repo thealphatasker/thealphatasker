@@ -19,10 +19,6 @@ Explore the folders and files to see live demos, code samples, and documentation
 View my full portfolio website with detailed project showcases, testimonials, and contact info:<br>
 - https://the-portfolio-ahsan.vercel.app/ <br><br>
 
-### 📬 Let’s Connect<br>
-Feel free to reach out if you’d like to collaborate, discuss a project idea, or just say hi!<br>
-- 🌐 Portfolio: https://thealphatasker.github.io/the.portfolio-s25895/ <br><br>
-
 ### ⭐ Why Follow My Work<br>
 If you enjoy clean, professional, and practical code that powers real solutions — follow along for updates and new projects! 👨‍💻
 <br><br>
