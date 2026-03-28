@@ -17,7 +17,7 @@ Explore the folders and files to see live demos, code samples, and documentation
 
 ### 🔗 Live Portfolio <br>
 View my full portfolio website with detailed project showcases, testimonials, and contact info:<br>
-- https://thealphatasker.github.io/the.portfolio-s25895/ <br><br>
+- https://the-portfolio-ahsan.vercel.app/ <br><br>
 
 ### 📬 Let’s Connect<br>
 Feel free to reach out if you’d like to collaborate, discuss a project idea, or just say hi!<br>
